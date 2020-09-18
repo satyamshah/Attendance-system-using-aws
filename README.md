@@ -10,11 +10,16 @@
 
 ## OBJECTIVE
 ### The main objective of the project is to provide an automated attendance system that is practical, reliable and eliminates disturbance and time loss in traditional attendance systems. The primary goal of this project is to develop a cloud-based solution that will automate the attendance taking process in a self-contained classroom environment. The project will consist of three main components: 
- ### The Cloud component will be responsible for recognizing students. 
-### The android application component will allow teachers to create 
-### students, add classes and view attendance history. 
 ### The Raspberry pie component that will be responsible for uploading  classroom images to AWS for processing.
+ ### The Cloud component will be responsible for recognizing students. 
+ ### Attendance is finally stored in csv file.
 
 ## Hardware Used:
+![](images/picamera.jpg)
+
+## Cloud Structure
+![](images/cloud.jpg)
+
+
 
 
